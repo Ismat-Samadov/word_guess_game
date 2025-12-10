@@ -40,7 +40,7 @@ export default function EndlessRunner() {
     particles: [] as Particle[],
     ground: 400,
     gravity: 0.6,
-    jumpStrength: -13,
+    jumpStrength: -16,
     gameSpeed: 5,
     obstacleTimer: 0,
     obstacleInterval: 100,
